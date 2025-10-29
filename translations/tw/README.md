@@ -200,7 +200,7 @@ MCP 為 AI 應用程式提供了這種標準化。AI 模型不需要為每個工
 | C# | MCP 伺服器範例 | [查看程式碼](./03-GettingStarted/samples/csharp/README.md) |
 | Java | MCP 計算器 | [查看程式碼](./03-GettingStarted/samples/java/calculator/README.md) |
 | JavaScript | MCP 示範 | [查看程式碼](./03-GettingStarted/samples/javascript/README.md) |
-| Python | MCP 伺服器 | [查看程式碼](../../03-GettingStarted/samples/python/mcp_calculator_server.py) |
+| Python | MCP 伺服器 | [查看程式碼](./03-GettingStarted/samples/python/mcp_calculator_server.py) |
 | TypeScript | MCP 範例 | [查看程式碼](./03-GettingStarted/samples/typescript/README.md) |
 | Rust | MCP 範例 | [查看程式碼](./03-GettingStarted/samples/rust/README.md) |
 
@@ -211,7 +211,7 @@ MCP 為 AI 應用程式提供了這種標準化。AI 模型不需要為每個工
 | C# | 進階範例 | [查看程式碼](./04-PracticalImplementation/samples/csharp/README.md) |
 | Java with Spring | 容器應用範例 | [查看程式碼](./04-PracticalImplementation/samples/java/containerapp/README.md) |
 | JavaScript | 進階範例 | [查看程式碼](./04-PracticalImplementation/samples/javascript/README.md) |
-| Python | 複雜實作 | [查看程式碼](../../04-PracticalImplementation/samples/python/READMEmd) |
+| Python | 複雜實作 | [查看程式碼](./04-PracticalImplementation/samples/python/README.md) |
 | TypeScript | 容器範例 | [查看程式碼](./04-PracticalImplementation/samples/typescript/README.md) |
 
 ## 🎯 學習 MCP 的先決條件
